@@ -15,7 +15,8 @@ export const Sidebar = ({ drawerWidth = 240 }) => {
                         variant='permanent'>
                     <Toolbar>
                         <Typography component='div' 
-                                    noWrap 
+                                    noWrap
+                                    sx={{ fontSize: 40 }} 
                                     variant='h6'>
                             Fer Santi
                         </Typography>

@@ -19,7 +19,7 @@ export const NoteView = () => {
 
                 <Grid item>
                     <Button color='primary'
-                            sx={{ padding: 2 }}>
+                            sx={{ padding: 2, mb: 2 }}>
                         <SaveOutlined sx={{ fontSize: 30, rm: 1 }}/>
                         Guardar
                     </Button>
